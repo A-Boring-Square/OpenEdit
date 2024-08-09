@@ -4,5 +4,7 @@
 To build this project please use godot version 4.2.2 .NET
 
 Thank you to all of our contributors
+
+
 ![GitHub contributors](https://img.shields.io/github/contributors/A-Boring-Square/OpenEdit)
 
